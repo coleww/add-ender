@@ -11,6 +11,6 @@
     "standard": "4.5.4"
   },
   "license": "MIT",
-  "description": "add-ender ----------------",
+  "description": "add a period to a string if it doesn't already end in one",
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)"
 }
