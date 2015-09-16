@@ -12,5 +12,22 @@
   },
   "license": "MIT",
   "description": "add a period to a string if it doesn't already end in one",
-  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)"
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "dependencies": {
+    "standard": "^4.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coleww/add-ender.git"
+  },
+  "keywords": [
+    "sentences",
+    "period",
+    "endings",
+    "words"
+  ],
+  "bugs": {
+    "url": "https://github.com/coleww/add-ender/issues"
+  },
+  "homepage": "https://github.com/coleww/add-ender#readme"
 }
